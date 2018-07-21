@@ -1,8 +1,8 @@
 ## 目录/内容表格
 *************
 ## 核心概念
-- [ ] 什么是Modding `初翻`
-- [ ] 自文明IV以来都有什么变化？ `初翻`
+- [ ] [什么是Modding](https://github.com/Ri0n72Y/civ5moddersGuideChineseTranslation/blob/master/text/core%20concept.md#%E4%BB%80%E4%B9%88%E6%98%AFmodding) `初翻`
+- [ ] [自文明IV以来都有什么变化？](https://github.com/Ri0n72Y/civ5moddersGuideChineseTranslation/blob/master/text/core%20concept.md#%E8%87%AA%E6%96%87%E6%98%8Eiv%E4%BB%A5%E6%9D%A5%E9%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96) `初翻`
 - [ ] 模块化设计 
 - [ ] XML
 > - [ ] 主题 `?`  
