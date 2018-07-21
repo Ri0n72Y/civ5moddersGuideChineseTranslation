@@ -8,4 +8,4 @@ The Chinese translation of The Modders Guide To Sid Meier's Civilization V by De
 ### 汉化项目目录
 [ModGuide目录 - 汉化](https://github.com/Ri0n72Y/civ5moddersGuideChineseTranslation/blob/master/index.md)
 
-[进度跟踪]()
+[进度跟踪](https://github.com/Ri0n72Y/civ5moddersGuideChineseTranslation/blob/master/tracker.md)
